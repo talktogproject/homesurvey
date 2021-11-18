@@ -1,2 +1,2 @@
 Milestone report
-* [25 participants](report_n25.html)
+[25 participants (Pilot)](report_n25.html)
